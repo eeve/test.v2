@@ -1,0 +1,1 @@
+export default vars = 1;

@@ -1,0 +1,13 @@
+{
+	"presets": [
+		["@babel/preset-env", {
+      "debug": true,
+      "useBuiltIns": "usage",
+			"targets": {
+				"node": 6
+			}
+		}],
+		"minify"
+	],
+  "sourceMaps": "inline"
+}
